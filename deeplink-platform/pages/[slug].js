@@ -107,6 +107,4 @@ export async function getServerSideProps({ params }) {
   };
 }
 
-export async function getStaticPaths() {
-  return { paths: [], fallback: "blocking" };
-}
+
