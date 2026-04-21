@@ -58,7 +58,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>DeepLinker — Open links in the right app</title>
+        <title>rectly — Open links in the right app</title>
         <meta name="description" content="Convert any social media link into a deep link that opens directly in the native app." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -285,7 +285,7 @@ export default function Home() {
         <header>
           <h1>
             <span className="logo-dot" />
-            DeepLinker
+            rectly
           </h1>
           <p className="subtitle">
             Paste any link. Get a short URL that opens<br />
